@@ -13,7 +13,7 @@
 | $9 | Middle Man  | `useless RoomChecker` |
 | $10 | Long Method  | `OrderReceipt.printReceipt()` |
 | $11 | Speculative Generality  | `HumanAble` |
-| $12 |  |  |
+| $12 | Mysterious Name | `p` |
 | $13 | Comments  |  |
 | $14 | Temporary Field  | `productBatchesToExpired` |
 | $15 | Mutable Data  | `totalPrice` |
